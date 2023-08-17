@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroSwitch", "HeroSwitch\HeroSwitch.csproj", "{47B9812E-4B81-4626-B00B-C5F5C8E5CB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B9812E-4B81-4626-B00B-C5F5C8E5CB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B9812E-4B81-4626-B00B-C5F5C8E5CB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B9812E-4B81-4626-B00B-C5F5C8E5CB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B9812E-4B81-4626-B00B-C5F5C8E5CB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F47AE24F-36B0-4B36-97BB-4A66382FA6FE}
+	EndGlobalSection
+EndGlobal

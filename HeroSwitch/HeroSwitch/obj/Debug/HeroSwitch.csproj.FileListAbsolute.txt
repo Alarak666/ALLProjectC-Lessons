@@ -1,0 +1,15 @@
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\bin\Debug\HeroSwitch.exe.config
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\bin\Debug\HeroSwitch.exe
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\bin\Debug\HeroSwitch.pdb
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\MainWindow.g.cs
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\App.g.cs
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch_MarkupCompile.cache
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch_MarkupCompile.lref
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\MainWindow.baml
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch.g.resources
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch.Properties.Resources.resources
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch.csproj.GenerateResource.cache
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch.exe
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch.pdb
+C:\Users\popel\source\repos\HeroSwitch\HeroSwitch\obj\Debug\HeroSwitch.csprojAssemblyReference.cache
