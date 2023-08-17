@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\ConsoleApp1\Lb_6_1\bin\Debug\Lb_6_1.exe.config
+C:\Users\popel\source\repos\ConsoleApp1\Lb_6_1\bin\Debug\Lb_6_1.exe
+C:\Users\popel\source\repos\ConsoleApp1\Lb_6_1\bin\Debug\Lb_6_1.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Lb_6_1\obj\Debug\Lb_6_1.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\ConsoleApp1\Lb_6_1\obj\Debug\Lb_6_1.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\ConsoleApp1\Lb_6_1\obj\Debug\Lb_6_1.exe
+C:\Users\popel\source\repos\ConsoleApp1\Lb_6_1\obj\Debug\Lb_6_1.pdb

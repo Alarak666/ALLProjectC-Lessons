@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 2_Масиви\bin\Debug\Завдання 2_Масиви.exe.config
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 2_Масиви\bin\Debug\Завдання 2_Масиви.exe
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 2_Масиви\bin\Debug\Завдання 2_Масиви.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 2_Масиви\obj\Debug\Завдання 2_Масиви.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 2_Масиви\obj\Debug\Завдання 2_Масиви.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 2_Масиви\obj\Debug\Завдання 2_Масиви.exe
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 2_Масиви\obj\Debug\Завдання 2_Масиви.pdb

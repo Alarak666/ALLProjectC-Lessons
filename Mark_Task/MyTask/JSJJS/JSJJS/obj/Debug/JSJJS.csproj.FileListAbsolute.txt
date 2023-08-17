@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\JSJJS\JSJJS\bin\Debug\JSJJS.exe.config
+C:\Users\popel\source\repos\JSJJS\JSJJS\bin\Debug\JSJJS.exe
+C:\Users\popel\source\repos\JSJJS\JSJJS\bin\Debug\JSJJS.pdb
+C:\Users\popel\source\repos\JSJJS\JSJJS\obj\Debug\JSJJS.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\JSJJS\JSJJS\obj\Debug\JSJJS.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\JSJJS\JSJJS\obj\Debug\JSJJS.exe
+C:\Users\popel\source\repos\JSJJS\JSJJS\obj\Debug\JSJJS.pdb

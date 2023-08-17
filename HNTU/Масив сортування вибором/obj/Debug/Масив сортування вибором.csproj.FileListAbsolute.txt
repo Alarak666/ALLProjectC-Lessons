@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\ConsoleApp1\Масив сортування вибором\bin\Debug\Масив сортування вибором.exe.config
+C:\Users\popel\source\repos\ConsoleApp1\Масив сортування вибором\bin\Debug\Масив сортування вибором.exe
+C:\Users\popel\source\repos\ConsoleApp1\Масив сортування вибором\bin\Debug\Масив сортування вибором.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Масив сортування вибором\obj\Debug\Масив сортування вибором.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\ConsoleApp1\Масив сортування вибором\obj\Debug\Масив сортування вибором.exe
+C:\Users\popel\source\repos\ConsoleApp1\Масив сортування вибором\obj\Debug\Масив сортування вибором.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Масив сортування вибором\obj\Debug\Масив сортування вибором.csprojAssemblyReference.cache

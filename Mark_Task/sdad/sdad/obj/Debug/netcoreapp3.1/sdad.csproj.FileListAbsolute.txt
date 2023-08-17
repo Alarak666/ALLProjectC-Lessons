@@ -1,0 +1,13 @@
+C:\Users\popel\source\repos\sdad\sdad\obj\Debug\netcoreapp3.1\sdad.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\sdad\sdad\obj\Debug\netcoreapp3.1\sdad.AssemblyInfoInputs.cache
+C:\Users\popel\source\repos\sdad\sdad\obj\Debug\netcoreapp3.1\sdad.AssemblyInfo.cs
+C:\Users\popel\source\repos\sdad\sdad\obj\Debug\netcoreapp3.1\sdad.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\sdad\sdad\bin\Debug\netcoreapp3.1\sdad.exe
+C:\Users\popel\source\repos\sdad\sdad\bin\Debug\netcoreapp3.1\sdad.deps.json
+C:\Users\popel\source\repos\sdad\sdad\bin\Debug\netcoreapp3.1\sdad.runtimeconfig.json
+C:\Users\popel\source\repos\sdad\sdad\bin\Debug\netcoreapp3.1\sdad.runtimeconfig.dev.json
+C:\Users\popel\source\repos\sdad\sdad\bin\Debug\netcoreapp3.1\sdad.dll
+C:\Users\popel\source\repos\sdad\sdad\bin\Debug\netcoreapp3.1\sdad.pdb
+C:\Users\popel\source\repos\sdad\sdad\obj\Debug\netcoreapp3.1\sdad.dll
+C:\Users\popel\source\repos\sdad\sdad\obj\Debug\netcoreapp3.1\sdad.pdb
+C:\Users\popel\source\repos\sdad\sdad\obj\Debug\netcoreapp3.1\sdad.genruntimeconfig.cache

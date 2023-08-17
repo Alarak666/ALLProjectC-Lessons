@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\ConsoleApp1\Сортування 13\bin\Debug\Сортування 13.exe.config
+C:\Users\popel\source\repos\ConsoleApp1\Сортування 13\bin\Debug\Сортування 13.exe
+C:\Users\popel\source\repos\ConsoleApp1\Сортування 13\bin\Debug\Сортування 13.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Сортування 13\obj\Debug\Сортування 13.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\ConsoleApp1\Сортування 13\obj\Debug\Сортування 13.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\ConsoleApp1\Сортування 13\obj\Debug\Сортування 13.exe
+C:\Users\popel\source\repos\ConsoleApp1\Сортування 13\obj\Debug\Сортування 13.pdb

@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\Learn_Summer\Urok_1\Urok_1\bin\Debug\Urok_1.exe.config
+C:\Users\popel\source\repos\Learn_Summer\Urok_1\Urok_1\bin\Debug\Urok_1.exe
+C:\Users\popel\source\repos\Learn_Summer\Urok_1\Urok_1\bin\Debug\Urok_1.pdb
+C:\Users\popel\source\repos\Learn_Summer\Urok_1\Urok_1\obj\Debug\Urok_1.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\Learn_Summer\Urok_1\Urok_1\obj\Debug\Urok_1.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Learn_Summer\Urok_1\Urok_1\obj\Debug\Urok_1.exe
+C:\Users\popel\source\repos\Learn_Summer\Urok_1\Urok_1\obj\Debug\Urok_1.pdb

@@ -1,0 +1,14 @@
+C:\Users\popel\source\repos\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\popel\source\repos\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\popel\source\repos\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\popel\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\popel\source\repos\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\popel\source\repos\MyTask\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\popel\source\repos\MyTask\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\popel\source\repos\MyTask\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\popel\source\repos\MyTask\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\MyTask\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\MyTask\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\popel\source\repos\MyTask\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

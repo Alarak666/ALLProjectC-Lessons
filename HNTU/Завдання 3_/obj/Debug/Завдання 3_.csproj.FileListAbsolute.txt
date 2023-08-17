@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 3_\bin\Debug\Завдання 3_.exe.config
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 3_\bin\Debug\Завдання 3_.exe
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 3_\bin\Debug\Завдання 3_.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 3_\obj\Debug\Завдання 3_.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 3_\obj\Debug\Завдання 3_.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 3_\obj\Debug\Завдання 3_.exe
+C:\Users\popel\source\repos\ConsoleApp1\Завдання 3_\obj\Debug\Завдання 3_.pdb

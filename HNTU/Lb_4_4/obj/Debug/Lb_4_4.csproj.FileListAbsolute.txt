@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\ConsoleApp1\Lb_4_4\bin\Debug\Lb_4_4.exe.config
+C:\Users\popel\source\repos\ConsoleApp1\Lb_4_4\bin\Debug\Lb_4_4.exe
+C:\Users\popel\source\repos\ConsoleApp1\Lb_4_4\bin\Debug\Lb_4_4.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Lb_4_4\obj\Debug\Lb_4_4.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\ConsoleApp1\Lb_4_4\obj\Debug\Lb_4_4.exe
+C:\Users\popel\source\repos\ConsoleApp1\Lb_4_4\obj\Debug\Lb_4_4.pdb
+C:\Users\popel\source\repos\ConsoleApp1\Lb_4_4\obj\Debug\Lb_4_4.csprojAssemblyReference.cache

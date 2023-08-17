@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\ConsoleApp1\TEST\bin\Debug\TEST.exe.config
+C:\Users\popel\source\repos\ConsoleApp1\TEST\bin\Debug\TEST.exe
+C:\Users\popel\source\repos\ConsoleApp1\TEST\bin\Debug\TEST.pdb
+C:\Users\popel\source\repos\ConsoleApp1\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\ConsoleApp1\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\ConsoleApp1\TEST\obj\Debug\TEST.exe
+C:\Users\popel\source\repos\ConsoleApp1\TEST\obj\Debug\TEST.pdb

@@ -1,0 +1,6 @@
+C:\Users\popel\source\repos\Mark_Task\Fight_with_Mark\1_task\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\popel\source\repos\Mark_Task\Fight_with_Mark\1_task\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\popel\source\repos\Mark_Task\Fight_with_Mark\1_task\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\popel\source\repos\Mark_Task\Fight_with_Mark\1_task\ConsoleApp1\ConsoleApp1\obj\Debug\Сума двух в строке.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Mark_Task\Fight_with_Mark\1_task\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\popel\source\repos\Mark_Task\Fight_with_Mark\1_task\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
