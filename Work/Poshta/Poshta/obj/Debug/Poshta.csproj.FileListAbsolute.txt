@@ -1,0 +1,11 @@
+C:\Users\popel\source\repos\Work\Poshta\Poshta\bin\Debug\Poshta2_1.mdf
+C:\Users\popel\source\repos\Work\Poshta\Poshta\bin\Debug\Poshta2_1_log.ldf
+C:\Users\popel\source\repos\Work\Poshta\Poshta\bin\Debug\Poshta.exe.config
+C:\Users\popel\source\repos\Work\Poshta\Poshta\bin\Debug\Poshta.exe
+C:\Users\popel\source\repos\Work\Poshta\Poshta\bin\Debug\Poshta.pdb
+C:\Users\popel\source\repos\Work\Poshta\Poshta\obj\Debug\Poshta.Form1.resources
+C:\Users\popel\source\repos\Work\Poshta\Poshta\obj\Debug\Poshta.Properties.Resources.resources
+C:\Users\popel\source\repos\Work\Poshta\Poshta\obj\Debug\Poshta.csproj.GenerateResource.cache
+C:\Users\popel\source\repos\Work\Poshta\Poshta\obj\Debug\Poshta.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\Work\Poshta\Poshta\obj\Debug\Poshta.exe
+C:\Users\popel\source\repos\Work\Poshta\Poshta\obj\Debug\Poshta.pdb

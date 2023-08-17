@@ -1,0 +1,5 @@
+ID;FirstName;MiddleName;LastName;Address;Salary;Salary_KPI;KPI_Percent;KPI_Name;Post;Department
+1;Anton;R'yazavnov;Georgovich;Strіlkova 3;2000;2800;0,4;C;IT-Outsourcing;Department of Yakosti
+2;Varvara;Agulash;Antonovna;Strіlkova 2;300;360;0,2;A;Economy;Legal department
+3;Valeriy;Valerka;Valeriyovich;Strіlkova 1;2000;2000;0;;IT-Outsourcing;Department ZED
+4;Georgiy;Grek;Georgovich;Galok 320;600;780;0,3;B;Retailer;Legal department
