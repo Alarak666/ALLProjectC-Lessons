@@ -1,0 +1,7 @@
+C:\Users\popel\source\repos\SOBECEDOVANIE\Thread\N1\bin\Debug\N1.exe.config
+C:\Users\popel\source\repos\SOBECEDOVANIE\Thread\N1\bin\Debug\N1.exe
+C:\Users\popel\source\repos\SOBECEDOVANIE\Thread\N1\bin\Debug\N1.pdb
+C:\Users\popel\source\repos\SOBECEDOVANIE\Thread\N1\obj\Debug\N1.csprojAssemblyReference.cache
+C:\Users\popel\source\repos\SOBECEDOVANIE\Thread\N1\obj\Debug\N1.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\SOBECEDOVANIE\Thread\N1\obj\Debug\N1.exe
+C:\Users\popel\source\repos\SOBECEDOVANIE\Thread\N1\obj\Debug\N1.pdb

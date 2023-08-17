@@ -1,0 +1,11 @@
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\bin\Debug\UkrPoshta2.0.exe.config
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\bin\Debug\UkrPoshta2.0.exe
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\bin\Debug\UkrPoshta2.0.pdb
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2._0.Form1.resources
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2._0.Properties.Resources.resources
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2.0.csproj.GenerateResource.cache
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2.0.exe.licenses
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2.0.csproj.CoreCompileInputs.cache
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2.0.exe
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2.0.pdb
+C:\Users\popel\source\repos\UkrPoshta2.0\UkrPoshta2.0\obj\Debug\UkrPoshta2.0.csprojAssemblyReference.cache

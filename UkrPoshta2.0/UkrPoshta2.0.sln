@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkrPoshta2.0", "UkrPoshta2.0\UkrPoshta2.0.csproj", "{82EAD1E5-0601-42ED-8F34-DABECBCDD445}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{E4BFC90E-6B60-4A1C-A5D4-5BEF2271797D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82EAD1E5-0601-42ED-8F34-DABECBCDD445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EAD1E5-0601-42ED-8F34-DABECBCDD445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EAD1E5-0601-42ED-8F34-DABECBCDD445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EAD1E5-0601-42ED-8F34-DABECBCDD445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4BFC90E-6B60-4A1C-A5D4-5BEF2271797D}.Debug|Any CPU.ActiveCfg = Debug
+		{E4BFC90E-6B60-4A1C-A5D4-5BEF2271797D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C005290-4DBA-4598-98EF-CDF63DD6325A}
+	EndGlobalSection
+EndGlobal
